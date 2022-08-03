@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>迷路.run Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>迷路.run Blog</description>
+        <lastBuildDate>Wed, 03 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎访问 迷路.run]]></description>
+            <content:encoded><![CDATA[<p>欢迎访问 迷路.run</p><p>我们还有很多工作需要完善:</p><ul><li><code>补充完善信息</code></li><li><code>推荐更多真实真诚的信息渠道</code></li></ul><p>关注 迷路.run 麋鹿不迷路</p><p><img loading="lazy" alt="Welcome" src="/assets/images/banner-ee9787d1b3a8451674de23853e9fbb5e.jpg" width="1500" height="620" class="img_ev3q"></p><p>希望大家一切顺利.</p>]]></content:encoded>
+            <category>迷路</category>
+            <category>milu</category>
+            <category>麋鹿</category>
+            <category>移民</category>
+        </item>
+    </channel>
+</rss>
