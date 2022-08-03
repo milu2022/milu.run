@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '信息分享',
-    Svg: require('@site/static/img/node_1.jpg').default,
+    Svg: require('@site/static/img/node_1.svg').default,
     description: (
       <>
         信息不对等是造成很多人付出高昂成本的重要原因，我们希望信息可以更快的被分享被验证和在时效内被更多人了解到.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '案例分享',
-    Svg: require('@site/static/img/node_2.jpg').default,
+    Svg: require('@site/static/img/node_2.svg').default,
     description: (
       <>
         成功案例是激励，失败案例是勉励。不是每个案例都一定适用于自己，最重要的是从案例里学习到坚持和坚毅。
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '求职招聘',
-    Svg: require('@site/static/img/node_3.jpg').default,
+    Svg: require('@site/static/img/node_3.svg').default,
     description: (
       <>
         希望能分享更多的求职信息、特别是海外求职和招聘，让真正有能力的人不会被社会大流淹没。
