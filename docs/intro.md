@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # 基本介绍
 
-关注 milu.run 麋鹿不迷路
+关注 milu.run
+
+麋鹿不迷路
 
 ## 必读事项
 
@@ -46,5 +48,4 @@ sidebar_position: 1
 暂时可以通过我们的群了解信息。
 
 我们正在研究如何通过 github 或者是其他途径。
-
 
