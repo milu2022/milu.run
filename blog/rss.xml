@@ -4,10 +4,20 @@
         <title>迷路.run Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
         <description>迷路.run Blog</description>
-        <lastBuildDate>Wed, 03 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[白本被拒5次依然移民成功]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/Mon Aug 08 2022 00:00:00 GMT+0000 (Coordinated Universal Time)</link>
+            <guid>Mon Aug 08 2022 00:00:00 GMT+0000 (Coordinated Universal Time)</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <category>迷路</category>
+            <category>milu</category>
+            <category>麋鹿</category>
+            <category>移民</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-test-site.com/blog/welcome</link>

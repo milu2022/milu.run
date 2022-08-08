@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/blog</id>
     <title>迷路.run Blog</title>
-    <updated>2022-08-03T00:00:00.000Z</updated>
+    <updated>2022-08-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
     <subtitle>迷路.run Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[白本被拒5次依然移民成功]]></title>
+        <id>Mon Aug 08 2022 00:00:00 GMT+0000 (Coordinated Universal Time)</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Mon Aug 08 2022 00:00:00 GMT+0000 (Coordinated Universal Time)"/>
+        <updated>2022-08-08T00:00:00.000Z</updated>
+        <author>
+            <name>milu</name>
+            <uri>https://github.com/milu2022/milu.run</uri>
+        </author>
+        <category label="迷路" term="迷路"/>
+        <category label="milu" term="milu"/>
+        <category label="麋鹿" term="麋鹿"/>
+        <category label="移民" term="移民"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
