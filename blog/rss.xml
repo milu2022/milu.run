@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>迷路.run Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://milu.run/blog</link>
         <description>迷路.run Blog</description>
         <lastBuildDate>Mon, 08 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[白本被拒5次依然移民成功]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/20220808</link>
+            <link>https://milu.run/blog/20220808</link>
             <guid>20220808</guid>
             <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[仔细看看这个视频，还是挺鼓励人的。]]></description>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <link>https://milu.run/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[欢迎访问 迷路.run]]></description>
