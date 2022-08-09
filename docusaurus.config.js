@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '迷路.run',
   tagline: '让每一个想要出国的人不迷路',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://milu.run',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
