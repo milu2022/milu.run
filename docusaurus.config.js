@@ -71,7 +71,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '资讯',
+            label: '润出去',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -88,7 +88,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '资讯',
+                label: '润出去',
                 to: '/docs/intro',
               },
             ],
